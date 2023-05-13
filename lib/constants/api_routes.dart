@@ -1,0 +1,10 @@
+const urlDefault = 'https://auto-attend.onrender.com';
+// const urlDefault = 'http://127.0.0.1:5000';
+// const url = 'https://auto-attend-api.onrender.com';
+const registerApi = '/api/register';
+const loginApi = '/api/login';
+const logoutApi = '/api/logout';
+const courseApi = '/api/get_courses';
+const lessonApi = '/api/lesson';
+const rollcallApi = '/api/roll_call_session_user/';
+const wakeupApi = '/api/wake_up_call';
